@@ -5,3 +5,6 @@ function happyHolidays(string){
 function happyHolidaysTo(Romero){
   return "Happy holidays, you!"
 }
+function happyHolidayTo("Happy holidays, Romero"!){
+  return ("string")
+}
